@@ -79,7 +79,7 @@
     "react-dev-utils": "~11.0.1",
     "requireg": "^0.2.2",
     "resolve-from": "^5.0.0",
-    "semver": "7.3.2",
+    "semver": "7.5.2",
     "serialize-error": "6.0.0",
     "slugid": "1.1.0",
     "source-map-support": "0.4.18",
